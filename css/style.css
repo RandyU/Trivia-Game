@@ -1,0 +1,37 @@
+body {
+	background-image: url("../assets/lollapalooza.jpg");
+	background-size: 100%;
+	background-position: static;
+	color: black;
+	background-repeat: repeat-y;
+	font-weight: bold;
+	font-size: 250%;
+}
+
+#lollapalooza{
+	position: fixed; 
+  	top: -50%; 
+  	left: -50%; 
+  	width: 200%; 
+  	height: 200%;
+
+
+}
+
+.container{
+	background-color: rgba(255,255,255, 0.5);
+	
+}
+#Header {
+	font-size: 24px;
+	font-weight: bold;
+	justify-content: center;
+	color: gray;
+	padding-top: 10px;
+}
+
+#startButton {
+	padding:25px;
+	position: relative;
+	left: 50px;
+}
